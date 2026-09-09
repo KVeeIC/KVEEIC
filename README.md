@@ -20,9 +20,17 @@ I'm currently working on the Medline Operations Problem Navigator
   <ul>
 
   +Red vs Blue
+
+  
   +The Penguin
+
+  
   +Hunter x Hunter
+
+  
   +Avatar The Last Airbender
+
+  
   +Code Geass
   </ul>
 </details>
