@@ -11,4 +11,4 @@ I'm currently working on the Medline Operations Problem Navigator
 
 **Reach Me @**
 + [My Gmail ] (mailto:kvinson@icstars.org)
-+ [My Linkedin Profile](https://www.linkedin.com/in/kamouyon-vinson-74b7b841a)
++ [My Linkedin Profile] (https://www.linkedin.com/in/kamouyon-vinson-74b7b841a)
