@@ -10,5 +10,5 @@ I'm currently working on the Medline Operations Problem Navigator
 **My Goal This Cycle:** Being a benefactor during the visual design process during the planning & building phase.
 
 **Reach Me @**
-+ [My Gmail ] (mailto:marcdelay@gmail.com)
-+ [My Linkedin Profile]
++ [My Gmail ] (mailto:kvinson@icstars.org)
++ [My Linkedin Profile](https://www.linkedin.com/in/kamouyon-vinson-74b7b841a)
