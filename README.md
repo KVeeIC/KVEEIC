@@ -18,20 +18,11 @@ I'm currently working on the Medline Operations Problem Navigator
   <summary>My favorite shows(subject to change)</summary>
 
   <ul>
-
-  +Red vs Blue
-
-  
-  +The Penguin
-
-  
-  +Hunter x Hunter
-
-  
-  +Avatar The Last Airbender
-
-  
-  +Code Geass
+    <li>Red vs Blue</li>
+    <li>The Penguin</li>
+    <li>Hunter x Hunter</li>
+    <li>Avatar The Last Airbender</li>
+    <li>Code Geass</li>
   </ul>
 </details>
 
